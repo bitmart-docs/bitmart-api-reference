@@ -4,7 +4,7 @@ const request = require('request');
 const private_key = "xxx";
 const apiKey = "xxx";
 const apiSecret = "xxx";
-const key = new NodeRSA('-----BEGIN PRIVATE KEY-----\n' + pem + '\n-----END PRIVATE KEY-----');
+const key = new NodeRSA('-----BEGIN PRIVATE KEY-----\n' + private_key + '\n-----END PRIVATE KEY-----');
 
 
 function encrypt(payload) {
