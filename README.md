@@ -22,5 +22,5 @@ All APIs are used at your risk and expense. We are not responsible for any negli
 
 terence.lee@bitmart.com & siyuan.meng@bitmart.com
 
-Or Join our
-[Slack Channel](https://join.slack.com/t/bitmart-business/shared_invite/enQtMzg0MjA5MDI1NTI0LTc4MGY2ODMxZWM3ZTc5NzI4M2ZlNTk0ZWZkZjEyYjFlYzNkNTc5MTNmMmRhMGNjMWI1Mzk1MmE4MTZhMjQzYzY) and reach out to `Terence Lee` or `Siyuan Meng`
+Or Join our Telegram Group
+https://t.me/bitmart_api and reach out to `Terence Lee` or `Siyuan Meng`
